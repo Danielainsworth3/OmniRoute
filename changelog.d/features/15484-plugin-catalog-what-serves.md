@@ -1,0 +1,1 @@
+- **feat(plugin):** trim the default view from 5367 to 2902 entries with per-provider fresh and showcase caps ([#15484](https://github.com/diegosouzapw/OmniRoute/pull/15484)) — thanks @maxmad64bis
